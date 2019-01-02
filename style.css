@@ -1,0 +1,285 @@
+//Header
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+body {
+    font-family: 'Titillium Web', 'Helvetica Neue', Arial, sans-serif;
+}
+body {
+    font-family: 'Titillium Web', 'Helvetica Neue', Arial, sans-serif;
+}
+body {
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 2rem;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+}
+
+hr {
+    height:1px !important;
+    border:none;
+    color:#333;
+    background-color:#333;
+    width: 10%;
+    background-color: grey;
+}
+
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+
+.img_header {
+	height: 100vh;
+	width: 100%;
+}
+
+.centered {
+    position: absolute;
+    height: auto;
+    width: 55%;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+.tag_line {
+    position: absolute;
+    text-align: center;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+.scroll_down {
+	position: absolute;
+    text-align: center;
+    width: 20%;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+#header_text {
+	 font-size: 3vw;
+	 font-weight: normal;
+}
+
+.btn_contribute {
+	margin-top: 20px;
+    border-radius: 25px !important;
+    width: 60% !important;
+    background-color: #469848 !important;
+    font-size: 0.8em !important;
+}
+
+
+.btnWorkWithUs {
+    border-radius: 25px !important;
+    width: 30% !important;
+    background-color: #54d056!important;
+    font-size: 0.8em !important;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+}
+
+.btn_scroll {
+    border-radius: 25px !important;
+    width: 40% !important;
+    background-color: #ffffff99 !important;
+    height: 30px;
+    color: black !important;
+    margin: 0px !important;
+    padding: 0px !important;
+    font-size: 1vw !important;
+}
+
+.btn_learn_more {
+	border-radius: 25px !important;
+    width: 50% !important;
+	background-color: #54D056 !important;
+    height: 30px;
+    color: white !important;
+    font-weight: bold;
+    margin: 0px !important;
+    padding: 0px !important;
+    font-size: 1.2em !important;
+        font-weight: bold !important;
+}
+
+section {
+    padding: 4rem 0;
+}
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+.icons {
+	border: transparent;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 30px;
+    padding: 30px;
+}
+
+.icon_colour {
+    color: #54d056!important;
+    background-color: #54d05629;
+    width: 70%;
+}
+
+.para_text {
+	margin-bottom: 20px !important;
+}
+
+.subHeader {
+	color: #737373;
+}
+
+/*Form*/
+
+
+.formBackground {
+    background-color: #54D056;
+    margin: 2%;
+}
+
+.nimTokenBackground {
+    background-color: white;
+    width: 50%;
+    transform: translate(50%, 0%);
+
+}
+
+.nimBackground {
+    background-color: #ececec;
+}
+
+.teamBackground {
+    background-color: #54D056;
+}
+
+.bottomTeam {
+    background-color: #2ca92e;
+}
+
+
+.formHeaderText {
+    padding-bottom: 10%;
+}
+
+/*check boxes*/
+#checkboxes label {
+  float: left;
+}
+#checkboxes ul {
+  margin: 0;
+  list-style: none;
+  float: left;
+}
+
+.emailBox {
+    margin-bottom: 25px;
+    border-radius: 5px !important;
+    background-color: #54d056 !important;
+    width: 50% !important;
+}
+
+.formStyle {
+    border-radius: 10px;
+    padding: 5%;
+    margin-top: 30px;
+    transform: translate(50%, 0%);
+    width: 50%;
+    border-color: #e4f7e4;
+    background-color: #e4f7e4;
+}
+
+.listSpace {
+    margin-bottom: 10px;
+    color: grey !important;
+}
+
+.paraSpace {
+        margin-bottom: 30px;
+    color: grey !important;
+}
+
+.logoSpace {
+        margin-bottom: 60px;
+}
+
+.mediaText {
+    color: #737373;
+}
+
+.gridWidth {
+    max-width: 90% !important;
+}
+
+.imgLogo {
+    width: 100% !important;
+}
+
+.btnMoreInfo {
+    background-color: #a1a1a1ad !important;
+    border-color: transparent !important;
+    border-radius: 25px !important;
+    width: 20% !important;
+    font-size: 0.8em !important;
+}
+
+.vl {
+    border-left: 4px solid #525252d1;
+    height: 160px;
+    transform: translate(50%, 10%);
+    margin-bottom: 20px;
+}
+
+#iconAlign {
+        text-align: center !important;
+    color: #54d056;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.footer {
+    background-color: #4e4949;
+    color: white;
+}
+
+.teamText {
+        color: #525252d1 !important;
+}
+
+/*Responsive design*/
+
+@media only screen and (max-width: 800px) {
+    .formStyle {
+        border-radius: 10px;
+        padding: 5%;
+        margin-top: 30px;
+        transform: translate(10%, 0%);
+        width: 80%;
+        border-color: #e4f7e4;
+        background-color: #e4f7e4;
+    }
+
+    .btnMoreInfo {
+         font-size: 0.6em !important;
+    }
+}
